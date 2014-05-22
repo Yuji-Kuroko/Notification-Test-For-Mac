@@ -12,4 +12,5 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+- (IBAction)clickTest:(id)sender;
 @end
